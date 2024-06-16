@@ -1,0 +1,10 @@
+{
+  "database_url": "mongodb://localhost:27017/",
+  "database_name": "cryptocashout",
+  "user_collection": "users",
+  "transaction_collection": "transactions",
+  "api_key": "backend_api_key",
+  "api_secret": "backend_api_secret",
+  "jwt_secret": "jwt_secret_key",
+  "jwt_expiration_time": 3600
+}
