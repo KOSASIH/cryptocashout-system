@@ -1,0 +1,11 @@
+{
+  "atm_id": "ATM-001",
+  "atm_location": "New York",
+  "currency_supported": ["BTC", "ETH", "PI", "LTC"],
+  "language_supported": ["en", "es", "fr"],
+  "max_withdrawal_amount": 1000,
+  "min_withdrawal_amount": 10,
+  "transaction_fee": 0.05,
+  "api_key": "atm_api_key",
+  "api_secret": "atm_api_secret"
+}
