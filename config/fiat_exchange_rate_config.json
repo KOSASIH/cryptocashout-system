@@ -1,0 +1,6 @@
+{
+  "api_url": "https://api.exchangerate-api.com/v4/latest/",
+  "api_key": "fiat_exchange_rate_api_key",
+  "currencies_supported": ["USD", "EUR", "GBP", "JPY"],
+  "update_interval": 3600
+}
