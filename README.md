@@ -1,2 +1,3 @@
 # cryptocashout-system
-A repo name that mirrors the project name, emphasizing the system's functionality.
+
+A cutting-edge ATM solution that enables users to withdraw fiat money from their Pi Coin balances. This repository contains the source code and documentation for the CryptoCashOut System
